@@ -1,4 +1,7 @@
---- title: GoodBooks ---
+---
+title: GoodBooks
+---
+
 
 [[Anna]] managed them until they split up in [[2008]] at [[Glastonbury]]
 
