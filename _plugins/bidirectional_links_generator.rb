@@ -24,6 +24,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
         title_from_data = note_potentially_linked_to.data['title']
         if title_from_data
+          title_from_data = title_from_data.to_s
           title_from_data = Regexp.escape(title_from_data)
         end
 
