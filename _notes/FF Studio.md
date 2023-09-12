@@ -1,3 +1,6 @@
+---
+---
+
 FF Studio is run by [[Anna]] and [[Eliot]]. We started in [[2022]], but Eliot ran previous incarnations of the studio from [[2016]] to [[2022]].
 
 It stands for Four Five Studio.
