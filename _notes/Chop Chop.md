@@ -1,4 +1,4 @@
-Chop Chop was one of the first on-demand grocery apps.
+Chop Chop was one of the first on-demand grocery apps. It launched in one store in [[2016]] and is now running nationwide.
 
 It was developed by Sainsbury's alongside [[Pivotal Labs]]. We ran a blended team which started out with mostly Pivots pairing with a few Sainsbury's staff, and over time reducing the number of Pivots and increasing the number of Sainsbury's staff. [[Anna]] was the product manager on the Pivotal side, also working with [[Papa Akuffo]].
 
